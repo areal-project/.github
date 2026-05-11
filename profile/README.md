@@ -10,7 +10,8 @@
   </a>
 </p>
 
-<img align="right" alt="ReaL" src="/assets/figures/logo.png" width="20%">
+<img align="right" alt="AReaL" src="https://raw.githubusercontent.com/areal-project/AReaL/main/assets/figures/logo.png" width="20%">
+
 
 **AReaL** is a reinforcement learning (RL) infrastructure designed to bridge foundation
 model training with modern agent-based applications. It was originally developed by
